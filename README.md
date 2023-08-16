@@ -5,7 +5,7 @@ To get started, we'll take you through a sample Python Flask app, help you set u
 
 The following instructions are for deploying the application as a Cloud Foundry application. To deploy as a container to **IBM Cloud Kubernetes Service** instead, [see README-kubernetes.md](README-kubernetes.md)
 
-## Prerequisites
+## Prerequisites which are must
 
 You'll need the following:
 * [IBM Cloud account](https://console.ng.bluemix.net/registration/)
@@ -13,7 +13,7 @@ You'll need the following:
 * [Git](https://git-scm.com/downloads)
 * [Python](https://www.python.org/downloads/)
 
-## 1. Clone the sample app
+## 1. Clone the sample app below are given steps
 
 Now you're ready to start working with the app. Clone the repo and change to the directory where the sample app is located.
   ```

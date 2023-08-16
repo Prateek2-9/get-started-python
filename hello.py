@@ -65,7 +65,7 @@ def get_visitor():
 #  *
 #  * Response:
 #  * [ "Bob", "Jane" ]
-#  * @return An array of all the visitor names
+#  * @returns An array of all the visitor names
 #  */
 @app.route('/api/visitors', methods=['POST'])
 def put_visitor():
